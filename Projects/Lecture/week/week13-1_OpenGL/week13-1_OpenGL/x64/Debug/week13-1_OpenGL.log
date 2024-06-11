@@ -1,0 +1,10 @@
+﻿  week13-1_OpenGL.cpp
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(54,23): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(55,23): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(56,23): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(57,23): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(58,23): warning C4305: '+=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(59,23): warning C4305: '-=': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(127,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\week13-1_OpenGL.cpp(129,27): warning C4305: '인수': 'double'에서 'GLfloat'(으)로 잘립니다.
+  week13-1_OpenGL.vcxproj -> C:\temporary_VS2022_Projects\no20193468\GameGraphicProgramming\week13-1_OpenGL\x64\Debug\week13-1_OpenGL.exe
